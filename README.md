@@ -329,7 +329,7 @@ Para avanzar con el tema de la POO, vamos a revisar la definición de clase obje
 
 # Yazmin Teran
 
-## Mi refliccion de la programacion orientada a objetos
+## Mi refleccion de la programacion orientada a objetos
 
 * la POO es utilizada por todos los lenguajes modernos 
 
